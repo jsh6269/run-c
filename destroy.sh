@@ -1,0 +1,10 @@
+rm -rf build-gpp
+rm -rf build-clang
+rm -rf build-make
+rm -rf build-meson
+rm -rf build-mingw
+rm -rf build-mingw-preset
+rm -rf build-ninja
+rm -rf build-ninja-preset
+rm -rf build-unix
+rm -rf build-vs
