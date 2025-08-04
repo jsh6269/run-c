@@ -1,3 +1,0 @@
-C:/Users/suhan/basic-C/build-mingw/CMakeFiles/main.dir
-C:/Users/suhan/basic-C/build-mingw/CMakeFiles/edit_cache.dir
-C:/Users/suhan/basic-C/build-mingw/CMakeFiles/rebuild_cache.dir

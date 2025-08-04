@@ -1,3 +1,0 @@
-C:/Users/suhan/basic-C/build-ninja/CMakeFiles/main.dir
-C:/Users/suhan/basic-C/build-ninja/CMakeFiles/edit_cache.dir
-C:/Users/suhan/basic-C/build-ninja/CMakeFiles/rebuild_cache.dir
